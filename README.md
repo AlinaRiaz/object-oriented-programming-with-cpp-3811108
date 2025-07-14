@@ -1,7 +1,6 @@
 # Object-Oriented Programming with C++
 This is the repository for the LinkedIn Learning course `cObject Oriented Programming with C++`. The full course is available from [LinkedIn Learning][lil-course-url]. 
 
-![lil-thumbnail-url]
 
 ## Course Description
 
@@ -13,12 +12,4 @@ Károly Nyisztor
 
 Mobile Developer, Instructor
 
-                            
-
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/karoly-nyisztor?u=104).
-
-[0]: # (Replace these placeholder URLs with actual course URLs)
-
-[lil-course-url]: https://www.linkedin.com/learning/object-oriented-programming-with-c-plus-plus
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQEyN8EUDE908g/learning-public-crop_675_1200/B4DZTYmgpeHkAc-/0/1738800761680?e=2147483647&v=beta&t=ZH-Wj0oIRYHr0-Xewho5YtWi5ym2MishUAJf7TTTzl8
-
+(I , ALINA RIAZ, HAVE COMPLETED THIS COURSE ON JULY 14 , 25)
